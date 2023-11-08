@@ -1,0 +1,127 @@
+{
+    "mainNews": {
+        "img": "https://images.unsplash.com/photo-1695477718933-a35f4921e903?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+        "date": "12 DEC 2021",
+        "title": "ASTRA Infra acquired an Additional Share in JORR I W2N Toll Road",
+        "category": "EVENTS",
+        "description": "JAKARTA (29/06), The signing ceremony for the additional 14% shares acquisition of PT Jakarta Marga Jaya (JMJ), Thus, ASTRA Infra indirectly owns 49% shares of PT Marga Lingkar Jakarta (MLJ), which is a Toll Road Business Entity (BUJT) for the JORR I Ulujami-Kebon Jeruk.",
+        "author": "ADMIN ASTRA"
+    },
+    "stories": [
+        {
+            "img": "https://images.unsplash.com/photo-1695829078492-6c88a9d1aa36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+            "date": "12 DEC 2021",
+            "title": "Pelita Gamma Internship Students are Practicing Using Machines at PT PPBT",
+            "category": "PUBLIC CONTRIBUTION",
+            "author": "ADMIN ASTRA"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1690460550070-e73402127f11?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+            "date": "12  DEC 2029",
+            "title": "Pelita Gamma Internship Students are Practicing Using Machines at PT PPBT",
+            "category": "PUBLIC CONTRIBUTION",
+            "author": "ADMIN ASTRA"
+        },
+        {
+            "img": "https://images.unsplash.com/photo-1596998628927-4a8199d0d11b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "date": "12 DEC 2024",
+            "title": "Pelita Gamma Internship Students are Practicing Using Machines at PT PPBT",
+            "category": "PUBLIC ",
+            "author": "ADMIN ASTRA"
+        }
+    ],
+    "mainEvent" :[
+        {
+            "img":"https://images.unsplash.com/photo-1682685797507-d44d838b0ac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw1Nnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+            "date":"30-12-2021",
+            "author":"By Admin Astra",
+            "desc":"Lorem ipsum dolor sit Amet Constecteur Adipicising elit",
+            "toll":"Toll",
+            "title":"ASTRA Infra acquired an Additional Share in JORR I W2N Toll Road",
+            "read":"Read More"
+  
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1695606392809-0da228da6b83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1OXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+            "date":"30-12-2021",
+            "author":"By Admin Astra",
+            "desc":"Lorem ipsum dolor sit Amet Constecteur Adipicising elit",
+            "toll":"Toll",
+            "title":"ASTRA Infra Participates in JORR I W2N Toll Road Business",
+            "read":"Read More"
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1694979301658-bb2906aad35a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQ3fDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "date":"30-12-2021",
+            "author":"By Admin Astra",
+            "desc":"Lorem ipsum dolor sit Amet Constecteur Adipicising elit",
+            "toll":"Toll",
+            "title":"ASTRA Infra acquired an Additional Share in JORR I W2N Toll Road",
+            "read":"Read More"
+        
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1695456527397-0b9e1c79fe96?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDExfDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "date":"30-12-2021",
+            "author":"By Admin Astra",
+            "desc":"Lorem ipsum dolor sit Amet Constecteur Adipicising elit",
+            "toll":"Toll",
+            "title":"ASTRA Infra Participates in JORR I W2N Toll Road Business",
+            "read":"Read More"
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1601852863985-fff524e8b351?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+            "date":"30-12-2021",
+            "author":"By Admin Astra",
+            "desc":"Lorem ipsum dolor sit Amet Constecteur Adipicising elit",
+            "toll":"Toll",
+            "title":"ASTRA Infra acquired an Additional Share in JORR I W2N Toll Road",
+            "read":"Read More"
+                
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1694775053062-31f3362f7ffa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQyfDZzTVZqVExTa2VRfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "date":"30-12-2021",
+            "author":"By Admin Astra",
+            "desc":"Lorem ipsum dolor sit Amet Constecteur Adipicising elit",
+            "toll":"Toll",
+            "title":"ASTRA Infra Participates in JORR I W2N Toll Road Business",
+            "read":"Read More"
+        }
+    ],
+    "mainMagazine":[
+        {
+            "img":"https://images.unsplash.com/photo-1695220539847-31f3a2453bdd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "title":"Energi Infra 6th Edition"
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1646145927270-6e2c695d8e4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+            "title":"Energi Infra 5th Edition"
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1695457264636-f314b0027ca2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=60z",
+            "title":"Energi Infra 4th Edition"
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1693748961289-0790439528fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+            "title":"Energi Infra 3th Edition"
+        }
+    ],
+    "mainPublic":{
+            "date" : "12 DEC 2021",
+            "desc" : "The President Director of PT Marga Mandalasakti, Kris Ade Sudiyono, harvests hydroponic plants as the result of environmental greening program.",
+            "author" : "BY ADMIN ASTRA",
+            "img" : "https://images.unsplash.com/photo-1695289112022-2967de6a4ab1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNzR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "title": "Planting 2000 Trees at Cikande Interchange by Astra Infra Toll Road Tangerang Merak"
+
+    },
+    "images":[
+        "https://images.unsplash.com/photo-1682685796063-d2604827f7b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1695582341851-8cc6eba24e1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+        "https://images.unsplash.com/photo-1690476071985-4943f147a85e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+
+
+    ]
+
+
+}

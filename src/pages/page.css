@@ -1,0 +1,35 @@
+.container{
+    margin: 40px;
+
+}
+
+.wrapper{
+    display: flex;
+    column-gap: 32px;;
+}
+.section-left {
+    width: 743px;
+}
+.img{
+
+    width: 743px;
+    height: 488px;
+    background-color: #92f2e2;
+    border-radius: 16px;
+    
+}
+.gambar{
+    width: 180px;
+    height: 180px;
+    background-color: #92f2e2;
+    border-radius: 16px;
+}
+.stories-wrapper{
+    display: flex;
+    column-gap: 32px;
+}
+.section-right{
+    display: flex;
+    flex-direction: column;
+    row-gap: 16px;
+}

@@ -1,0 +1,82 @@
+.bgc{
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;
+    height: 786px;
+    
+    padding: 50px;
+}
+.headings{
+    color: white;
+}
+.tanggal{
+    color: #ff0000;
+}
+.isi-berita{
+    color: #fff;
+    line-height: 32px;
+   
+}
+.penulis{
+    color: #9FA1A7;
+    
+}
+.penulis p{
+    font-size: 14px;
+}
+.judul-sub{
+    color: white;
+}
+.foto{
+    background-color: #92f2e2;
+    width: 205px;
+    height: 100px;
+}
+.foto img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+.gambar-kanan{
+    background-color: #92f2e2;
+    width: 800px;
+    height: 500px;
+    border-radius: 16px;
+}
+.gambar-kanan img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+}
+.contri{
+    border-bottom:2px solid #ED1C24;
+    
+}
+.left{
+    width: 425px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.sectionRight{
+    display: flex;
+    flex-direction: column;
+}
+.wrapper{
+    justify-content: space-between;
+}
+.isi-berita{
+    font-size: 25px;
+}
+.upnext P{
+    color: #9FA1A7;
+    font-size: 14px;
+}
+/* .divStyle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+} */

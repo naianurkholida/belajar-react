@@ -1,0 +1,24 @@
+.image-magazine{
+    
+    width: 316px;
+    height: 452px;
+    background-color: #92f2e2;
+}
+.all-magazine{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+    justify-content: space-between;
+}
+.magazine{
+    padding: 40px;
+}
+.magazine-wrapper{
+    text-align: center;
+}
+.image-magazine img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+    /* object-fit: cover; */
+}
