@@ -1,0 +1,79 @@
+.all-navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #ffff;
+    border-bottom:2px solid rgb(185, 180, 181);
+    height: 100px;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+}
+.item{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.logo{
+    background-color: bisque;
+    width: 70px;
+}
+.language{
+    width: 50px;
+    background-color: black;
+}
+.eng{
+    width: 50px;
+    background-color: black;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn-home{
+    background-color:transparent;
+    border: none;
+    font-size: 16px;
+}
+.btn-home:hover{
+    color: red;
+}
+.btn-profile{
+    background-color:transparent;
+    border: none;
+    font-size: 16px;
+}
+.btn-profile:hover{
+    color: red;
+}
+.btn-business{
+    background-color:transparent;
+    border: none;
+    font-size: 16px;
+}
+.btn-business:hover{
+    color: red;
+}
+.btn-feeds{
+    background-color:transparent;
+    border: none;
+    font-size: 16px;
+}
+.btn-feeds:hover{
+    color: red;
+}
+.btn-contacts{
+    background-color:transparent;
+    border: none;
+    font-size: 16px;
+}
+.btn-contacts:hover{
+    color: red;
+}
+button{
+    width: 140px;
+}
