@@ -15,3 +15,6 @@
     object-fit: cover;
     border-radius: 16px;
 }
+.story-category{
+    color: red;
+}

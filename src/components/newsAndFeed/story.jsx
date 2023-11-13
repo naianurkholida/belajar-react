@@ -12,7 +12,7 @@ const wrapper = ()=>{
               <img src={story.img} alt="" />
             </div>
             <div className='all'>
-              <div className="tanggal">{story.date} | {story.category}</div>
+              <div className="tanggal-story">{story.date} | <span className="story-category">{story.category}</span></div>
               <div className="judul-berita">
               {story.title}
               </div>

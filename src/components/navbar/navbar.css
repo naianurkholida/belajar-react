@@ -4,35 +4,36 @@
     justify-content: space-between;
     width: 100%;
     background-color: #ffff;
-    border-bottom:2px solid rgb(185, 180, 181);
     height: 100px;
     overflow: hidden;
     position: fixed;
     top: 0;
+    align-items: center;
+    padding: 0px 0px 0px 50px;
 }
 .item{
-    width: 50%;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
 }
 .logo{
-    background-color: bisque;
-    width: 70px;
+    background-color: rgb(152, 128, 97);
+    width: 120px;
+    height: 50px;
 }
 .language{
-    width: 50px;
-    background-color: black;
+    /* width: 50px;
+    background-color: black; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
-.eng{
-    width: 50px;
-    background-color: black;
-}
+
 .menu{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
     align-items: center;
+    padding: 0px 50px 0px 0px;
+    
 }
 .btn-home{
     background-color:transparent;
@@ -75,5 +76,22 @@
     color: red;
 }
 button{
-    width: 140px;
+    width: 120px;
+}
+.eng{
+    width: 40px;
+    background-color: rgb(86, 52, 165);
+    height: 40px;
+    border-radius: 100%;
+    margin: 10px;
+}
+.ind{
+    width: 40px;
+    background-color: rgb(189, 140, 140);
+    height: 40px;
+    border-radius: 100%;
+    margin: 10px;
+}
+.garis{
+    
 }

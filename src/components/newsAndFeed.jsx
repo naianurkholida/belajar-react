@@ -16,8 +16,8 @@ const newsAndFeeds = ()=>{
               <div className="img">
                 <img src={data.mainNews.img} alt="" />
               </div>
-              <div className="tanggal">
-                <p>{data.mainNews.date} | {data.mainNews.category}</p>
+              <div className="tgl">
+                <p>{data.mainNews.date} | <span className="category">{data.mainNews.category}</span></p>
               </div>
               <div className="berita">
                 <h4>{data.mainNews.title}</h4>
