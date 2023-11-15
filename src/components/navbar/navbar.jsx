@@ -1,47 +1,52 @@
-import React from "react";
+import React,{useState} from "react";
+import { NavLink } from "react-router-dom";
 import './navbar.css'
 
-const navbar = ()=>{
-
+const Navbar =()=>{
+    const [menuOpen, setMenuOpen]=useState(false)
 
     return(
-        <>
-            <div className="line">
-                <div className="all-navbar">
-                <div className="logo"></div>
-                <div className="item">
-                    <div className="menu">
-                        <div className="home">
-                            <button className="btn-home">Home</button>
-                        </div>
-                        <div className="profile">
-                            <button className="btn-profile">Profile</button>
-                        </div>
-                        <div className="business">
-                            <button className="btn-business">Business</button>
-                        </div>
-                        <div className="feeds">
-                            <button className="btn-feeds">Feeds</button>
-                        </div>
-                        <div className="contacts">
-                            <button className="btn-contacts">Contacts</button>
-                        </div>
-                        <div className="language">
-                            <div className="eng"></div>
-                            <div className="garis">
-                                <svg width="1" height="32" viewBox="0 0 1 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <line x1="0.1" y1="4.37114e-09" x2="0.0999986" y2="32" stroke="black" stroke-width="0.2"/>
-                                </svg>          
-                            </div>
-                            <div className="ind"></div>
-                    </div>
-                    </div>
-                </div>
-                </div>
+        <nav className="all-navbar">
+            <div className="logo"></div>
+            <div className="menu" onClick={()=>{
+                setMenuOpen(!menuOpen)
+            }}>
+                
+                
             </div>
-        </>
-        
+        <ul className={menuOpen ? "open":""}>
+            <li>
+                <NavLink to="/home">Home</NavLink>
+            </li>
+            <li>
+                <NavLink to="/profile">Profile</NavLink>
+            </li>
+            <li>
+                <NavLink to="/business">Our Business</NavLink>
+            </li>
+            <li>
+                <NavLink to="/">Feeds</NavLink>
+            </li>
+            <li>
+                <NavLink to="/contacts">Contacts</NavLink>
+            </li>
+            {/* <li>
+                <div className="eng"></div>
+            </li>
+            <li>
+                <div className="line">
+                <svg width="1" height="32" viewBox="0 0 1 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <line x1="0.1" y1="4.37114e-09" x2="0.0999986" y2="32" stroke="black" stroke-width="0.2"/>
+                </svg>
+                </div>
+            </li>
+            <li>
+                <div className="ind"></div>
+            </li> */}
+        </ul>
+    </nav>
     )
+
 }
 
-export default navbar;
+export default Navbar

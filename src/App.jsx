@@ -1,12 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
-import Page from'./pages/page.jsx'
+import Navbar from './components/navbar/Navbar.jsx';
+import Feeds from'./pages/Feeds.jsx'
+import { Routes, Route } from 'react-router-dom';
+import Home from './pages/Home.jsx';
+
 
 function App() {
   return (
     <div className="App">
-      
-    <Page></Page>
+    <Navbar/>
+    <Routes>
+        <Route path='/home' element={<Home/>}/>
+        <Route path='/' element={<Feeds/>}/>
+      </Routes>
     </div>
   );
 }

@@ -1,97 +1,98 @@
-.all-navbar{
+.active{
+    color: red;
+}
+
+
+nav{
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
-    width: 100%;
-    background-color: #ffff;
-    height: 100px;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
     align-items: center;
-    padding: 0px 0px 0px 50px;
+    background-color: #ffffff;
+    padding: 0px 40px;
+    position: sticky;
+    top: 0;
 }
-.item{
-    display: flex;
-    flex-direction: row;
-}
-.logo{
-    background-color: rgb(152, 128, 97);
+nav .logo{
+    background-color: rgb(236, 236, 236);
+    border-radius: 50px;
     width: 120px;
     height: 50px;
 }
-.language{
-    /* width: 50px;
-    background-color: black; */
+nav ul{
     display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-.menu{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 0px 50px 0px 0px;
     
 }
-.btn-home{
-    background-color:transparent;
-    border: none;
-    font-size: 16px;
+nav ul li{
+    list-style: none;
 }
-.btn-home:hover{
-    color: red;
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    color:black;
+    padding: 0.5rem;
+    margin: 0 0.9rem;
+    border-radius: 0.5rem;
 }
-.btn-profile{
-    background-color:transparent;
-    border: none;
-    font-size: 16px;
+nav ul li a:hover{
+    background-color: rgb(248, 248, 248);
 }
-.btn-profile:hover{
-    color: red;
+nav ul li a:not(.active):hover{
+    background-color: rgb(248, 248, 248);
 }
-.btn-business{
-    background-color:transparent;
-    border: none;
-    font-size: 16px;
+
+nav .menu{
+    display: none;
+    position: absolute;
+    top: 0.75rem;
+    right: 0.5rem;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(178, 178, 178);
+    border-radius: 100%;
 }
-.btn-business:hover{
-    color: red;
+
+
+@media(max-width: 480px){
+    nav .menu{
+        display: flex;
+    }
+    nav{
+        flex-direction: column;
+        align-items: start;
+    }
+    nav ul{
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        margin-bottom: 0.25rem;
+    }
+    nav ul.open{
+        display: flex;
+        padding: 0;
+    }
+    nav ul li{
+        width: 100%;
+        text-align: center;
+        
+
+    }
+    nav ul li a{
+        margin: 0.2rem 0.5rem;
+    }
 }
-.btn-feeds{
-    background-color:transparent;
-    border: none;
-    font-size: 16px;
-}
-.btn-feeds:hover{
-    color: red;
-}
-.btn-contacts{
-    background-color:transparent;
-    border: none;
-    font-size: 16px;
-}
-.btn-contacts:hover{
-    color: red;
-}
-button{
-    width: 120px;
-}
-.eng{
+
+nav .eng{
     width: 40px;
     background-color: rgb(86, 52, 165);
     height: 40px;
     border-radius: 100%;
-    margin: 10px;
 }
-.ind{
+nav .ind{
     width: 40px;
     background-color: rgb(189, 140, 140);
     height: 40px;
     border-radius: 100%;
-    margin: 10px;
 }
-.garis{
-    
-}
+nav .border{}

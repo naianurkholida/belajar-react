@@ -1,6 +1,6 @@
 .image{
-    Width:427px;
-    Height:287px;
+    width:427px;
+    height:287px;
     background-color: #92f2e2;
 }
 .image img{
@@ -45,4 +45,27 @@
     display: flex;
     justify-content: center;
     margin: 20px 0px;
+}
+@media(max-width: 480px){
+    .image{
+        width: 330px;
+    }
+    .load-more{
+        width: 330px;
+    }
+    .title-event{
+        font-size: 25px;
+    }
+    .head{
+        font-size: 15px;
+    }
+    .tgl{
+        font-size: 15px;
+    }
+    .isi{
+        font-size: 15px;
+    }
+    .read-more{
+        font-size: 15px;
+    }
 }

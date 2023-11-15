@@ -1,6 +1,5 @@
 import "./newsAndFeeds.css"
 import Story from "./newsAndFeed/story"
-import PublicContribution from './publicContribution/publicContribution';
 import data from "../data.json"
 
 const newsAndFeeds = ()=>{

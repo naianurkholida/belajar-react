@@ -3,7 +3,6 @@
     flex-direction: column;
     background-color: #000000;
     height: 786px;
-    
     padding: 50px;
 }
 .headings{
@@ -15,7 +14,6 @@
 .isi-berita{
     color: #fff;
     line-height: 32px;
-   
 }
 .penulis{
     color: #9FA1A7;
@@ -81,3 +79,33 @@
     justify-content: center;
     background-size: cover;
 } */
+
+@media(max-width: 480px){
+    .headings{
+        font-size: 15px;
+    }
+    .isi-berita{
+        font-size: 15px;
+    }
+    .tanggal{
+        font-size: 15px;
+    }
+    .gambar-kanan{
+        width: 300px;
+        height: 200px;
+    }
+    .gambar-kanan img{
+        width: 100%;
+        height: 100%;
+    }
+    .left{
+        width: 300px;
+    }
+    .upnext{
+        font-size: 15px;
+    }
+    .sectionRight{
+
+        margin: 10px 0px;
+    }
+}

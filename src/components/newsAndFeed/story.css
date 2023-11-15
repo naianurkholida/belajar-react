@@ -18,3 +18,13 @@
 .story-category{
     color: red;
 }
+@media(max-width:480px){
+    .stories-wrapper{
+        flex-direction: column;
+        align-items: center;
+    }
+    .tanggal-story{
+        margin: 10px 0px;
+    }
+       
+}

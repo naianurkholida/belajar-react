@@ -22,3 +22,9 @@
     object-fit:cover;
     /* object-fit: cover; */
 }
+@media(max-width:480px){
+    .all-magazine{
+        flex-direction: column;
+        row-gap: 50px;
+    }
+}

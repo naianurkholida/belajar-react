@@ -7,7 +7,7 @@ const event =()=>{
         <>
         <div className="event">
 
-            <h1>Events</h1>
+            <h1 className="title-event">Events</h1>
             <div className="contain">
             {data.mainEvent.map((event, index)=>(
                 <div key = {index} className="event-wrapper">
