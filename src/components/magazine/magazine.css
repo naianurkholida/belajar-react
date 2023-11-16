@@ -22,9 +22,25 @@
     object-fit:cover;
     /* object-fit: cover; */
 }
+.loadmore-magazine button{
+    border: none;
+    width: 427px;
+    background-color: #ED1C24;
+    color: #fff;
+    height: 48px;
+    border-radius: 5px;
+}
+.loadmore-magazine{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
 @media(max-width:480px){
     .all-magazine{
         flex-direction: column;
         row-gap: 50px;
+    }
+    .loadmore-magazine{
+        width: 316px;
     }
 }

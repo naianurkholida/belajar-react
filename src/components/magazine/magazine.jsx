@@ -40,7 +40,7 @@ console.log(data)
                     </div>
                 ))}
             </div>
-            <div className="load-more">
+            <div className="loadmore-magazine">
                 <button>Load More</button>
             </div>
         </div>
