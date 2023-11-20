@@ -1,6 +1,6 @@
 {
     "mainNews": {
-        "img": "https://images.unsplash.com/photo-1695477718933-a35f4921e903?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+        "img": "https://images.unsplash.com/photo-1615817109471-1069816cabfa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "date": "12 DEC 2021",
         "title": "ASTRA Infra acquired an Additional Share in JORR I W2N Toll Road",
         "category": "EVENTS",
@@ -9,28 +9,28 @@
     },
     "stories": [
         {
-            "img": "https://images.unsplash.com/photo-1695829078492-6c88a9d1aa36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+            "img": "https://i.pinimg.com/736x/2b/e4/19/2be4194f885249e2016366e94bf38190.jpg",
             "date": "12 DEC 2021",
             "title": "Pelita Gamma Internship Students are Practicing Using Machines at PT PPBT",
             "category": "PUBLIC CONTRIBUTION",
             "author": "ADMIN ASTRA"
         },
         {
-            "img": "https://images.unsplash.com/photo-1690460550070-e73402127f11?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+            "img": "https://i.pinimg.com/564x/93/77/e4/9377e43c4e849ffd2368d6c978f1429d.jpg",
             "date": "12  DEC 2029",
             "title": "Pelita Gamma Internship Students are Practicing Using Machines at PT PPBT",
             "category": "PUBLIC CONTRIBUTION",
             "author": "ADMIN ASTRA"
         },
         {
-            "img": "https://images.unsplash.com/photo-1596998628927-4a8199d0d11b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+            "img": "https://i.pinimg.com/564x/e1/f2/3e/e1f23e2235f46f9f4bedb1265305e230.jpg",
             "date": "12 DEC 2024",
             "title": "Pelita Gamma Internship Students are Practicing Using Machines at PT PPBT",
             "category": "EVENTS",
             "author": "ADMIN ASTRA"
         },
         {
-            "img": "https://images.unsplash.com/photo-1693993151823-f6064827dd95?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img": "https://i.pinimg.com/564x/fb/9d/a0/fb9da0dd848d2385d679e47d14d34d24.jpg",
             "date": "12 DEC 2024",
             "title": "Pelita Gamma Internship Students are Practicing Using Machines at PT PPBT",
             "category": "EVENTS",
@@ -98,19 +98,19 @@
     ],
     "mainMagazine":[
         {
-            "img":"https://images.unsplash.com/photo-1695220539847-31f3a2453bdd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "img":"https://images.unsplash.com/photo-1542372147193-a7aca54189cd?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "title":"Energi Infra 6th Edition"
         },
         {
-            "img":"https://images.unsplash.com/photo-1646145927270-6e2c695d8e4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzNXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+            "img":"https://images.unsplash.com/photo-1530174883092-c2a7aa3f1cfe?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "title":"Energi Infra 5th Edition"
         },
         {
-            "img":"https://images.unsplash.com/photo-1695457264636-f314b0027ca2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=60z",
+            "img":"https://images.unsplash.com/photo-1620124302502-9143f273d860?q=80&w=1949&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "title":"Energi Infra 4th Edition"
         },
         {
-            "img":"https://images.unsplash.com/photo-1693748961289-0790439528fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1NHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+            "img":"https://images.unsplash.com/photo-1581244730679-3fc196a91561?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "title":"Energi Infra 3th Edition"
         }
     ],

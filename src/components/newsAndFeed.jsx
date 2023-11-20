@@ -3,7 +3,6 @@ import Story from "./newsAndFeed/story"
 import data from "../data.json"
 
 const newsAndFeeds = ()=>{
-  console.log(data);
 
     return (
         <div className="container">

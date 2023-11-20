@@ -14,7 +14,6 @@ function Feeds() {
       <Event/>
       <Magazine/>
     </div>
-    
   );
 }
 

@@ -28,7 +28,6 @@ const PublicContribution =()=>{
             <div className="bgc">
                 <div className="headings">
                     <h1>Public <span className="contri">Contribution</span></h1>
-                    
                 </div>
                 <div className="wrapper">
                     <div className="left">

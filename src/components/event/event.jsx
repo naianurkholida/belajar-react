@@ -6,7 +6,6 @@ const event =()=>{
     return(
         <>
         <div className="event">
-
             <h1 className="title-event">Events</h1>
             <div className="contain">
             {data.mainEvent.map((event, index)=>(

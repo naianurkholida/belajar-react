@@ -30,19 +30,6 @@ const Navbar =()=>{
             <li>
                 <NavLink to="/contacts">Contacts</NavLink>
             </li>
-            {/* <li>
-                <div className="eng"></div>
-            </li>
-            <li>
-                <div className="line">
-                <svg width="1" height="32" viewBox="0 0 1 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <line x1="0.1" y1="4.37114e-09" x2="0.0999986" y2="32" stroke="black" stroke-width="0.2"/>
-                </svg>
-                </div>
-            </li>
-            <li>
-                <div className="ind"></div>
-            </li> */}
         </ul>
     </nav>
     )
